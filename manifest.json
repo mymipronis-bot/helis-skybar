@@ -1,0 +1,22 @@
+{
+  "name": "Helis SkyBar & Grill",
+  "short_name": "Helis SkyBar",
+  "description": "Bar rooftop au 4ème étage face au Carrefour Market de Bonabéri, Douala.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#D4A017",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=HS&background=D4A017&color=000&size=192&bold=true",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=HS&background=D4A017&color=000&size=512&bold=true",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
