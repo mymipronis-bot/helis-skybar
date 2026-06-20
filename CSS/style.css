@@ -494,3 +494,14 @@ footer {
   .footer-inner { flex-direction: column; text-align: center; }
   .footer-contact { text-align: center; }
   }
+.videos-section {
+    padding: 80px 20px;
+}
+
+.videos-section video {
+    width: 100%;
+    max-width: 800px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 12px;
+}
